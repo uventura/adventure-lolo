@@ -1,6 +1,8 @@
 # Adventure Of Lolo - RISC-V
 
-A RISC-V implementation of Adventure of Lolo
+<h2>A RISC-V implementation of Adventure of Lolo</h2>
+
+<img src="https://github.com/uventura/adventure-lolo/blob/main/Dados/Thumb.jpeg"/><br/>
 
 <b>Commands:</b>
 <p>
